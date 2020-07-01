@@ -9,3 +9,4 @@ And User reaches the Amazone Home Page
 Examples:
 |UserName   |Password |
 |username   |pwd      |
+|username   |pwd1     |
