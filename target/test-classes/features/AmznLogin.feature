@@ -8,4 +8,4 @@ And User reaches the Amazone Home Page
 
 Examples:
 |UserName   |Password |
-|8137853979 |Resh@1234|
+|username   |pwd      |
